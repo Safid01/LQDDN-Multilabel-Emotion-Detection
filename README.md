@@ -31,8 +31,6 @@ The proposed framework consists of the following components:
 
 ```text
 .
-├── English/
-├── Chinese/
 ├── configs/
 │   ├── english_lqddn.yaml
 │   └── chinese_lqddn.yaml
