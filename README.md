@@ -227,3 +227,7 @@ outputs/
 - English and Chinese are trained and evaluated separately.
 - The code saves ranking loss, classification loss, calibration loss, and total loss in evaluation metrics.
 - Hugging Face safetensors auto-conversion is disabled in-process to avoid noisy background warnings for repositories with disabled discussions.
+
+- ## Author
+
+Safid Hasan
